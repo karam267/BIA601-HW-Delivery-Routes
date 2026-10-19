@@ -1,0 +1,7 @@
+{
+  "population": 32,
+  "iterations": 160,
+  "GA": {"crossover": 0.85, "inversion": 0.25, "tournament": 4, "elite": 2},
+  "PSO": {"inertia": 0.4, "personal": 0.6, "social": 0.8, "shake": 0.12},
+  "ACO": {"alpha": 1.0, "beta": 3.0, "evaporation": 0.15}
+}
