@@ -1,0 +1,19 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.5.4",
+  "scipy": "1.18.1",
+  "matplotlib": "3.11.2",
+  "system": "Windows-11-10.0.26300-SP0",
+  "processor": "Intel64 Family 6 Model 183 Stepping 1, GenuineIntel",
+  "repetitions": 20,
+  "evaluations_per_trial": 5152,
+  "source_sha256": {
+    "check_results.py": "ce62760f7fea7c378f3b2cedc29f7d12a7085f7a5c65b468630671744f82f904",
+    "experiment.py": "9f4044ecd1715a1395f27b05d5da7de18966663bda242366be3a8598cf4bc14e",
+    "reference.py": "dbfcece16f9e4f826cefb975ed3066feedc7603f18269f9a03274382b982db6a",
+    "search.py": "9af8693a8091a044d2349ba2e7d541c00f8dfedcca3fc56163ed943d6a5dd21c",
+    "tours.py": "a105eb30eb31ca78bac59d18d81a223933125e717d2305049d98fe9b8593ba79",
+    "protocol.json": "75b7b249e8c4f428cfc5bac19758d0163503fe26282d049ea690d294f04f7185",
+    "requirements.txt": "80a519b095ecbb38110e8089deb5059759d7bc3fa93160bcade757a634a47b57"
+  }
+}
