@@ -24,7 +24,7 @@ A symmetric travelling-salesman delivery tour: start at depot 0, visit every sit
 | رؤى القالش | [roaaalkalesh](https://github.com/roaaalkalesh) | كتابة التقرير وتدقيقه | [#9](https://github.com/karam267/BIA601-HW-Delivery-Routes/issues/9) |
 | مريم ياغي | [maryampromotion2-droid](https://github.com/maryampromotion2-droid) | تنظيم المستودع ودليل التشغيل وواجهة العرض | [#7](https://github.com/karam267/BIA601-HW-Delivery-Routes/issues/7) |
 
-مساهمة كل عضو موثّقة في التقرير (`Report.docx`، جدول 7) وفي هذا الملف.
+مساهمة كل عضو موثّقة في التقرير (جدول 7) وفي هذا الملف.
 
 ## التشغيل
 
@@ -53,7 +53,6 @@ python check_results.py --rerun
 
 ## النتائج والعرض
 
-- التقرير: [`Report.docx`](Report.docx)
 - لوحة النتائج: افتح [`index.html`](index.html) في المتصفح (ملف مستقل، لا يحتاج تشغيل خادم).
 - مخرجات التجارب والرسوم: [`project/results/`](project/results/)
 
@@ -62,5 +61,5 @@ python check_results.py --rerun
 المشروع جاهز للتسليم قبل 12 نوفمبر 2026، ويتضمن:
 
 1. الكود المصدري القابل للتشغيل في `project/` (GA و PSO و ACO من الصفر، مع NN وحل مرجعي دقيق للمقارنة).
-2. تقريراً مختصراً يشرح المسألة والخوارزميات والتجارب والنتائج ومهمة كل عضو (`Report.docx`).
+2. تقريراً مختصراً بصيغة Word يشرح المسألة والخوارزميات والتجارب والنتائج ومهمة كل عضو.
 3. ملف `README.md` هذا مع تعليمات التشغيل وإعادة التجربة عبر `check_results.py`.
