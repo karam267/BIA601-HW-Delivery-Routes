@@ -20,7 +20,7 @@ A symmetric travelling-salesman delivery tour: start at depot 0, visit every sit
 | باسل محمد سمير عبد الرحمن | [bassel1233](https://github.com/bassel1233) | تنفيذ خوارزمية ACO | [#4](https://github.com/karam267/BIA601-HW-Delivery-Routes/issues/4) |
 | عبدالله محمد بركات | [amb888](https://github.com/amb888) | المرجع الدقيق والتحقق من الجولات | [#5](https://github.com/karam267/BIA601-HW-Delivery-Routes/issues/5) |
 | فيصل هيثم دالي | [faisaldaliite-gif](https://github.com/faisaldaliite-gif) | تنفيذ التجارب وتحليل النتائج | [#6](https://github.com/karam267/BIA601-HW-Delivery-Routes/issues/6) |
-| بشار ياسر المحرز | — | الجداول والرسوم | بدون GitHub |
+| بشار ياسر المحرز | [xgsdhdsd](https://github.com/xgsdhdsd) | الجداول والرسوم | [#8](https://github.com/karam267/BIA601-HW-Delivery-Routes/issues/8) |
 | رؤى القالش | — | كتابة التقرير وتدقيقه | بدون GitHub |
 | مريم (Maryam Promotion) | [maryampromotion2-droid](https://github.com/maryampromotion2-droid) | تنظيم المستودع ودليل التشغيل وواجهة العرض | [#7](https://github.com/karam267/BIA601-HW-Delivery-Routes/issues/7) |
 
