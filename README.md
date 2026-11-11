@@ -2,7 +2,7 @@
 
 ## تخطيط جولة توصيل بين المواقع
 
-**BIA601 — Intelligent Algorithms / الخوارزميات الذكية — الوظيفة الثالثة (F25) — مجموعة BIA601-HWخوارزميات ذكية**
+**BIA601 — Intelligent Algorithms / الخوارزميات الذكية (F25) — مجموعة BIA601-HWخوارزميات ذكية**
 
 المستودع: https://github.com/karam267/BIA601-HW-Delivery-Routes
 
