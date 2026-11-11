@@ -53,7 +53,7 @@ python check_results.py --rerun
 
 ## النتائج والعرض
 
-- التقرير: [`Report.docx`](Report.docx) ونسخة PDF للتسليم: [`Report.pdf`](Report.pdf)
+- التقرير: [`Report.docx`](Report.docx)
 - لوحة النتائج: افتح [`index.html`](index.html) في المتصفح (ملف مستقل، لا يحتاج تشغيل خادم).
 - مخرجات التجارب والرسوم: [`project/results/`](project/results/)
 
@@ -62,5 +62,5 @@ python check_results.py --rerun
 المشروع جاهز للتسليم قبل 12 نوفمبر 2026، ويتضمن:
 
 1. الكود المصدري القابل للتشغيل في `project/` (GA و PSO و ACO من الصفر، مع NN وحل مرجعي دقيق للمقارنة).
-2. تقريراً مختصراً يشرح المسألة والخوارزميات والتجارب والنتائج ومهمة كل عضو (`Report.docx` و`Report.pdf`).
+2. تقريراً مختصراً يشرح المسألة والخوارزميات والتجارب والنتائج ومهمة كل عضو (`Report.docx`).
 3. ملف `README.md` هذا مع تعليمات التشغيل وإعادة التجربة عبر `check_results.py`.
