@@ -22,7 +22,7 @@ A symmetric travelling-salesman delivery tour: start at depot 0, visit every sit
 | فيصل هيثم دالي | [faisaldaliite-gif](https://github.com/faisaldaliite-gif) | تنفيذ التجارب وتحليل النتائج | [#6](https://github.com/karam267/BIA601-HW-Delivery-Routes/issues/6) |
 | بشار ياسر المحرز | [xgsdhdsd](https://github.com/xgsdhdsd) | الجداول والرسوم | [#8](https://github.com/karam267/BIA601-HW-Delivery-Routes/issues/8) |
 | رؤى القالش | [roaaalkalesh](https://github.com/roaaalkalesh) | كتابة التقرير وتدقيقه | [#9](https://github.com/karam267/BIA601-HW-Delivery-Routes/issues/9) |
-| مريم (Maryam Promotion) | [maryampromotion2-droid](https://github.com/maryampromotion2-droid) | تنظيم المستودع ودليل التشغيل وواجهة العرض | [#7](https://github.com/karam267/BIA601-HW-Delivery-Routes/issues/7) |
+| مريم ياغي | [maryampromotion2-droid](https://github.com/maryampromotion2-droid) | تنظيم المستودع ودليل التشغيل وواجهة العرض | [#7](https://github.com/karam267/BIA601-HW-Delivery-Routes/issues/7) |
 
 مساهمة كل عضو موثّقة في التقرير (`Report.docx`، جدول 7) وفي هذا الملف.
 
